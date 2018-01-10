@@ -33,7 +33,7 @@ namespace CrossPlatformApp
             cell.SetValue(TextCell.TextColorProperty, Color.Blue);
             cell.SetValue(TextCell.DetailColorProperty, Color.DarkViolet);
 
-            listView.ItemTemplate = cell;
+            listView.ItemTemplate = new DataTemplate(typeof(ListViewCustom));
 
             listView.ItemSelected += (sender, e) =>
              {

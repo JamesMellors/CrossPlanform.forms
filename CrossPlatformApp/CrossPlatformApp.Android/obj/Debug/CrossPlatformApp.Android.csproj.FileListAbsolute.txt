@@ -58,6 +58,7 @@ C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\Cro
 C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\CrossPlatformApp.Droid.Page1.xaml.g.cs
 C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\bin\Debug\CrossPlatformApp.Android.dll
 bin\Debug\FormsViewGroup.dll.mdb
 bin\Debug\Xamarin.Forms.Core.dll.mdb
