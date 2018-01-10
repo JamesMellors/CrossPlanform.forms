@@ -8,7 +8,7 @@ using Xamarin.Forms;
 
 namespace CrossPlatformApp
 {
-	public class ListViewPage1 : ContentView
+	public class ListViewPage1 : ContentPage
 	{
 		public ListViewPage1 ()
 		{
@@ -28,8 +28,10 @@ namespace CrossPlatformApp
             listView.ItemsSource = Courses.GetCourseList();
 
             var cell = new DataTemplate(typeof(TextCell));
-            cell.SetBinding(TextCell.TextProperty, new Binding("."));
+            cell.SetBinding(TextCell.TextProperty, new Binding("Title"));
+            cell.SetBinding(TextCell.DetailProperty, new Binding("Author"));
             cell.SetValue(TextCell.TextColorProperty, Color.Blue);
+            cell.SetValue(TextCell.DetailColorProperty, Color.DarkViolet);
 
             listView.ItemTemplate = cell;
 
