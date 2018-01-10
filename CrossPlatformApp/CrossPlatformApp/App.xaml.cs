@@ -30,5 +30,7 @@ namespace CrossPlatformApp
 		{
 			// Handle when your app resumes
 		}
+
+
 	}
 }
