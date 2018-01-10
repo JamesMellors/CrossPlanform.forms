@@ -690,11 +690,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SurveyMe User\\source\\repos\\CrossPlatformApp\\CrossPlatformApp\\CrossPlatformApp.Android\\CrossPlatformApp.Android.csproj",
+      "projectUniqueName": "C:\\Users\\SurveyMe User\\Documents\\GitHub\\CrossPlanform.forms\\CrossPlatformApp\\CrossPlatformApp.Android\\CrossPlatformApp.Android.csproj",
       "projectName": "CrossPlatformApp.Android",
-      "projectPath": "C:\\Users\\SurveyMe User\\source\\repos\\CrossPlatformApp\\CrossPlatformApp\\CrossPlatformApp.Android\\CrossPlatformApp.Android.csproj",
+      "projectPath": "C:\\Users\\SurveyMe User\\Documents\\GitHub\\CrossPlanform.forms\\CrossPlatformApp\\CrossPlatformApp.Android\\CrossPlatformApp.Android.csproj",
       "packagesPath": "C:\\Users\\SurveyMe User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SurveyMe User\\source\\repos\\CrossPlatformApp\\CrossPlatformApp\\CrossPlatformApp.Android\\obj\\",
+      "outputPath": "C:\\Users\\SurveyMe User\\Documents\\GitHub\\CrossPlanform.forms\\CrossPlatformApp\\CrossPlatformApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

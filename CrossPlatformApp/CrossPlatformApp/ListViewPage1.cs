@@ -23,11 +23,24 @@ namespace CrossPlatformApp
             Padding = new Thickness(0, Device.OnPlatform(20, 0, 0), 0, 0);
 
             var listView = new ListView();
-            listView.ItemsSource = className;
+            // listView.ItemsSource = className;
+
+            listView.ItemsSource = Courses.GetCourseList();
+
+            var cell = new DataTemplate(typeof(TextCell));
+            cell.SetBinding(TextCell.TextProperty, new Binding("."));
+            cell.SetValue(TextCell.TextColorProperty, Color.Blue);
+
+            listView.ItemTemplate = cell;
+
             listView.ItemSelected += (sender, e) =>
              {
-                
-                 Debug.WriteLine("Selected: "+ e.SelectedItem);
+                 if (e.SelectedItem != null)
+                 {
+
+                     Debug.WriteLine("Selected: " + e.SelectedItem);
+                     listView.SelectedItem = null;
+                 }
             };
 			Content = listView;
 		}

@@ -19,8 +19,26 @@
     <Jar>C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\lp\8\jl\bin\classes.jar</Jar>
     <Jar>C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\lp\9\jl\bin\classes.jar</Jar>
   </Jars>
-  <ResolvedResourceDirectories />
-  <ResolvedAssetDirectories />
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\lp\7\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\lp\10\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\lp\11\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\lp\12\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\lp\13\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\lp\14\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\lp\16\jl\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Debug\lp\11\jl\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
-  <ResolvedResourceDirectoryStamps />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\lp\7.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\lp\10.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\lp\11.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\lp\12.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\lp\13.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\lp\14.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\lp\16.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
 </Paths>

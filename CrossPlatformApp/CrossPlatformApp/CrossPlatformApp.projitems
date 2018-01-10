@@ -20,6 +20,7 @@
     <Compile Include="$(MSBuildThisFileDirectory)MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)PluralsightCourse.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)SimpleContentPage.cs" />
   </ItemGroup>
 </Project>

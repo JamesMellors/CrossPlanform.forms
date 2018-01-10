@@ -28,7 +28,37 @@ C:\Users\SurveyMe User\source\repos\CrossPlatformApp\CrossPlatformApp\CrossPlatf
 C:\Users\SurveyMe User\source\repos\CrossPlatformApp\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Users\SurveyMe User\source\repos\CrossPlatformApp\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\SurveyMe User\source\repos\CrossPlatformApp\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
-C:\Users\SurveyMe User\source\repos\CrossPlatformApp\CrossPlatformApp\CrossPlatformApp.Android\bin\Debug\CrossPlatformApp.Android.dll
+C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\bin\Debug\CrossPlatformApp.Android.dll
+C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\bin\Debug\CrossPlatformApp.Android.pdb
+C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\bin\Debug\com.companyname.CrossPlatformApp.apk
+C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\bin\Debug\com.companyname.CrossPlatformApp-Signed.apk
+C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\CrossPlatformApp.Android.csproj.CoreCompileInputs.cache
+C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\CrossPlatformApp.Droid.App.xaml.g.cs
+C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\CrossPlatformApp.Droid.MainPage.xaml.g.cs
+C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\CrossPlatformApp.Android.dll
+C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\CrossPlatformApp.Android.pdb
+C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\android\bin\com.companyname.CrossPlatformApp.apk
+C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\res\drawable\icon.png
+C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\res\values\styles.xml
+C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\R.cs.flag
+C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\uploadflags.txt
+C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\CrossPlatformApp.Android.csprojResolveAssemblyReference.cache
+C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\bin\Debug\CrossPlatformApp.Android.dll.mdb
+C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\android\assets\CrossPlatformApp.Android.dll.mdb
+C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.Android\bin\Debug\CrossPlatformApp.Android.dll
 bin\Debug\FormsViewGroup.dll.mdb
 bin\Debug\Xamarin.Forms.Core.dll.mdb
 bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb

@@ -11,8 +11,8 @@
 namespace CrossPlatformApp {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\SurveyMe User\\source\\repos\\CrossPlatformApp\\CrossPlatformApp\\CrossPlatfo" +
-        "rmApp\\App.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\SurveyMe User\\Documents\\GitHub\\CrossPlanform.forms\\CrossPlatformApp\\Cros" +
+        "sPlatformApp\\App.xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
