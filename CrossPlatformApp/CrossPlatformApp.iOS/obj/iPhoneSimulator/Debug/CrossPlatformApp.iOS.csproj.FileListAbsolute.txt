@@ -133,3 +133,4 @@ C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\Cro
 C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.iOS\obj\iPhoneSimulator\Debug\optimized\Icon-Small.png
 C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.iOS\obj\iPhoneSimulator\Debug\optimized\Icon-Small@2x.png
 C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.iOS\obj\iPhoneSimulator\Debug\optimized\Icon-Small@3x.png
+C:\Users\SurveyMe User\Documents\GitHub\CrossPlanform.forms\CrossPlatformApp\CrossPlatformApp.iOS\obj\iPhoneSimulator\Debug\CrossPlatformApp.iOS.Page1.xaml.g.cs

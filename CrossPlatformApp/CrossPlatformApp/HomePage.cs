@@ -22,13 +22,23 @@ namespace CrossPlatformApp
             button2.Clicked += (o, e) =>
                 { Navigation.PushAsync(new CourseMasterDetail());  };
 
-            var button3 = new Button { Text = "" };
+            var button3 = new Button { Text = "Binding" };
             button3.Clicked += (o, e) =>
-                {  };
+                { Navigation.PushAsync(new CourseMasterDetailDB());  };
 
-            var button4 = new Button { Text = "" };
+            var button4 = new Button { Text = "Tabbed" };
             button4.Clicked += (o, e) =>
             {
+                var page = new TabbedPage();
+                page.Title = "Courses";
+                foreach(var course in Courses.GetCourseList())
+                {
+                    var coursePage = new CoursePageDB();
+                    coursePage.BindingContext = course;
+                    page.Children.Add(coursePage);
+                }
+
+                Navigation.PushAsync(page);
             };
 
             var button5 = new Button { Text = "" };

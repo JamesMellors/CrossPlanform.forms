@@ -18,7 +18,7 @@ namespace CrossPlatformApp
             {
                 if(e.SelectedItem != null)
                 {
-                    Detail.BindingContext = e.SelectedItem;
+                    Detail = new CoursePage(e.SelectedItem as Courses);
                     IsPresented = false;
                 }
             };
@@ -30,8 +30,7 @@ namespace CrossPlatformApp
             };
 
 
-            Detail = new CoursePageDB();
-            Detail.BindingContext = Courses.GetCourseList().First();
+            Detail = new CoursePage(Courses.GetCourseList().First());
         }
     }
 }
