@@ -12,7 +12,7 @@ namespace CrossPlatformApp
         public CoursePage(Courses course)
         {
             Padding = new Thickness(10, Device.OnPlatform(20, 0, 0), 10, 0);
-            BackgroundColor = Color.Gray;
+           // BackgroundColor = Color.Gray;
 
             this.Title = course.TitleShort;
 

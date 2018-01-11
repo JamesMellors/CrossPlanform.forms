@@ -12,10 +12,10 @@ namespace CrossPlatformApp
         public CoursePageDB()
         {
             Padding = new Thickness(10, Device.OnPlatform(20, 0, 0), 10, 0);
-            BackgroundColor = Color.Gray;
+          //  BackgroundColor = Color.Gray;
 
             //this.Title = course.TitleShort;
-            this.SetBinding(ContentPage.TitleProperty, "TileShort");
+            this.SetBinding(ContentPage.TitleProperty, "TitleShort");
 
             var titleLabel = new Label
             {
