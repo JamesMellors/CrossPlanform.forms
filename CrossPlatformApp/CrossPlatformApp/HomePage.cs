@@ -41,9 +41,17 @@ namespace CrossPlatformApp
                 Navigation.PushAsync(page);
             };
 
-            var button5 = new Button { Text = "" };
+            var button5 = new Button { Text = "Swipe" };
             button5.Clicked += (o, e) =>
             {
+                var page = new CarouselPage();
+                page.Title = "Courses";
+                foreach (var course in Courses.GetCourseList())
+                {
+                    var coursePage = new CoursePageDB();
+                    coursePage.BindingContext = course;
+                    page.Children.Add(coursePage);
+                }
             };
 
             Content = new StackLayout
