@@ -18,7 +18,7 @@ namespace CrossPlatformApp
             button1.Clicked += (o, e) =>
                 { Navigation.PushAsync(new CoursePage(Courses.GetCourseList().First())); };
 
-            var button2 = new Button { Text = "" };
+            var button2 = new Button { Text = "Master Detail" };
             button2.Clicked += (o, e) =>
                 { Navigation.PushAsync(new CourseMasterDetail());  };
 

@@ -16,7 +16,12 @@
     <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)CourseMasterDetail.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)CourseMasterDetailDB.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)CoursePage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)CoursePageDB.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Courses.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)HomePage.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ListViewCustom.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ListViewPage1.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)MainPage.xaml.cs">

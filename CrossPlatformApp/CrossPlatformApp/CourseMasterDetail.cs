@@ -18,17 +18,20 @@ namespace CrossPlatformApp
             {
                 if(e.SelectedItem != null)
                 {
-                    Detail = new CoursePage(e.SelectedItem as Courses);
+                    Detail.BindingContext = e.SelectedItem;
                     IsPresented = false;
                 }
             };
+
             Master = new ContentPage
             {
                 Title = "Courses",
                 Content = listView
             };
 
-            Detail = new CoursePage(Courses.GetCourseList().First());
+
+            Detail = new CoursePageDB();
+            Detail.BindingContext = Courses.GetCourseList().First();
         }
     }
 }

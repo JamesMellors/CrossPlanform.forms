@@ -15,10 +15,10 @@ namespace CrossPlatformApp
         {
             return Title;
         }
-        public static List<PluralsightCourse> GetCourseList()
+        public static List<Courses> GetCourseList()
         {
-            var courseList = new List<PluralsightCourse>();
-            courseList.Add(new PluralsightCourse
+            var courseList = new List<Courses>();
+            courseList.Add(new Courses
             {
                 Title = "Building Cross Platform Apps with Xamarin Part 1",
                 TitleShort = "Xamarin 1",
@@ -26,7 +26,7 @@ namespace CrossPlatformApp
                 "and C# to build cross-platform apps that run on both Android and iOS.",
                 Author = "Jim Wilson"
             });
-            courseList.Add(new PluralsightCourse
+            courseList.Add(new Courses
             {
                 Title = "Building Cross Platform Apps with Xamarin Part 2",
                 TitleShort = "Xamarin 2",
@@ -35,7 +35,7 @@ namespace CrossPlatformApp
                 "and capabilities of each platform.",
                 Author = "Jim Wilson"
             });
-            courseList.Add(new PluralsightCourse
+            courseList.Add(new Courses
             {
                 Title = "Building Google Glass Apps with c# and Xamarin",
                 TitleShort = "Xamarin Glass",
@@ -43,7 +43,7 @@ namespace CrossPlatformApp
                 "full-featured Scavenger Hunt game using the Xamarin Glass Development Kit component.",
                 Author = "Jim Wilson"
             });
-            courseList.Add(new PluralsightCourse
+            courseList.Add(new Courses
             {
                 Title = "Android for .NET Developers",
                 TitleShort = "Android",
